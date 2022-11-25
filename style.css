@@ -1,0 +1,19 @@
+.delete {
+  color: red;
+}
+
+.alert {
+  color: black;
+  text-align: center;
+  height: 3rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.alert-danger {
+  background-color: rgb(255, 148, 148);
+}
+.alert-success {
+  background-color: rgb(148, 255, 157);
+}
